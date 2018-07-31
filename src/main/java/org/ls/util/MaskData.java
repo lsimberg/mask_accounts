@@ -24,7 +24,7 @@ public class MaskData {
     private static final int ACCOUNT_NUM_DIGITS = 8;
 
     private static final int POSITION_ACCOUNT = 2;
-    private static final int POSITION_NAME = 1;
+    private static final int POSITION_NAME = 3;
     private static final String FILE_SUFFIX = "mask";
 
     public static void main(String args[]) {
