@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="_main" target="1.8" />
+      <module name="_test" target="1.8" />
+      <module name="maskAccou_main" target="1.8" />
+      <module name="maskAccou_test" target="1.8" />
+      <module name="maskAccount_main" target="1.8" />
+      <module name="maskAccount_test" target="1.8" />
+      <module name="test1_main" target="1.8" />
+      <module name="test1_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
